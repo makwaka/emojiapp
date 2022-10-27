@@ -2,5 +2,8 @@
 
 A simple app made when learning JS.
 Concept: simple eventListeners when clicked.
+This is a simple repo made when learning DOM manipulation.
 
-When clicked, the emoji turns from 🙈 to 🙉
+The user needs first to click on the button with text 'Click to see Emojis!' to reveal content.
+
+After that, when the first emoji is clicked it turns from 🙈 to 🙉.
