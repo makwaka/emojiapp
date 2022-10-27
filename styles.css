@@ -13,6 +13,14 @@ body{
 height: 100vh;
 }
 
+button{
+    color: rgb(231, 213, 213);
+    font-size: medium;
+    background-color: rgb(255, 0, 21);
+    border-radius: 5px;
+    border-color: bisque;
+}
+
 .emoji{
     font-size: 10rem;
     cursor: pointer;

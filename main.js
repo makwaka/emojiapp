@@ -1,7 +1,15 @@
 const closedFace = document.querySelector('.closed');
 const openFace = document.querySelector('.open');
 
+
+
+function revealContent(){
+    document.querySelector('#hiddenContent').style.display = 'block';
+}
+
+
 // Adding event listeners
+
 
 
 closedFace.addEventListener('click', ()=>{
